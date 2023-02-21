@@ -1,0 +1,6 @@
+#Write simple C programs for each - Variable,keywords,Constants along with your comments of understanding of the differences.
+
+#Try to find the output of below program with your comments:
+
+const int x = 8;
+x =9;

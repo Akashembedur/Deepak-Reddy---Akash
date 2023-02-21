@@ -1,0 +1,21 @@
+#Write simple C programs for each operators with your comments of understanding of the differences.
+
+#Try to find the output of below programs with your comments of understanding.
+
+(i)Binary
+
+int a =5;
+int b= 7;
+
+a&&b = ?
+a&b = ?
+
+//provide your comments of understanding the difference between two.
+
+(ii)Write a program to find the complement of a number.
+
+(iii)Provide comments of understanding between the two.
+
+int a = 10;
+a++;
+++a;
